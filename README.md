@@ -100,3 +100,7 @@ data, always.
 ## License
 
 MIT
+
+---
+
+If this saved you an afternoon, [a coffee helps](https://buymeacoffee.com/krlz) ☕
